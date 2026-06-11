@@ -1,0 +1,17 @@
+# ModelSim / Questa compiled library
+sim/work/
+sim/*.wlf
+sim/*.vcd
+sim/*.vstf
+sim/wlf*
+sim/modelsim.ini
+
+# Python cache
+golden/__pycache__/
+*.pyc
+*.pyo
+
+# EDA tool scratch files
+*.log
+*.bak
+transcript
